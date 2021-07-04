@@ -10,11 +10,12 @@
 
 Since 2019 I have been developing freelance websites.
 From October 2020 I am actively learning JavaScript and React on my own and in courses.
+Since February 2021 I have been working as a front-end developer at Neosoft.
 I can work both in a team and independently.I approach my duties responsibly.I learn new technologies easily and with pleasure.Interested in professional growth.
 
 ## Skills
 
-HTML, CSS, JavaScript, BEM, Git, React, Redux, Gulp, Webpack
+HTML, CSS, JavaScript, Vue.js, TypeScript
 
 ## Sample Code
 
@@ -60,7 +61,7 @@ close = document.querySelector('.popup\_\_closed');
 
 ## Courses
 
-1. Modern React with Redux (_Stephen Grider_)
+1. Understanding TypeScript (_Maximilian Schwarzmüller_)
 2. The Complete JavaScript + React Course - From Scratch to Results (_Ivan Petrichenko_)
 3. WEB Developer 2020 (_Ivan Petrichenko_)
 
